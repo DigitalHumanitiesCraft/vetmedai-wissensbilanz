@@ -1,0 +1,99 @@
+﻿Kennzahl_Datei;Kennzahl_ID;Display_Label
+1_A_1_personal_koepfe;1-A-1;Universität (Codex)
+1_A_1_personal_koepfe;1-A-1;Universität (Langtext)
+1_A_1_personal_koepfe;1-A-1;Verwendungskategorien WBV
+1_A_1_personal_koepfe;1-A-1;Wintersemester 2022 (Stichtag: 31.12.2022)
+1_A_1_personal_koepfe;1-A-1;Wintersemester 2023 (Stichtag: 31.12.2023)
+1_A_1_personal_koepfe;1-A-1;Wintersemester 2024 (Stichtag: 31.12.2024)
+1_A_1_personal_vzae;1-A-1;Universität (Codex)
+1_A_1_personal_vzae;1-A-1;Universität (Langtext)
+1_A_1_personal_vzae;1-A-1;Verwendungskategorien WBV
+1_A_1_personal_vzae;1-A-1;Wintersemester 2022 (Stichtag: 31.12.2022)
+1_A_1_personal_vzae;1-A-1;Wintersemester 2023 (Stichtag: 31.12.2023)
+1_A_1_personal_vzae;1-A-1;Wintersemester 2024 (Stichtag: 31.12.2024)
+1_A_2_berufungen;1-A-2;Frauen
+1_A_2_berufungen;1-A-2;Gesamt
+1_A_2_berufungen;1-A-2;Männer
+1_A_2_berufungen;1-A-2;Universität (Codex)
+1_A_2_berufungen;1-A-2;Universität (Langtext)
+1_A_3_frauenquote_kollegialorgane;1-A-3;Frauen in %
+1_A_3_frauenquote_kollegialorgane;1-A-3;Köpfe Frauen
+1_A_3_frauenquote_kollegialorgane;1-A-3;Köpfe Gesamt
+1_A_3_frauenquote_kollegialorgane;1-A-3;Köpfe Männer
+1_A_3_frauenquote_kollegialorgane;1-A-3;Männer in %
+1_A_3_frauenquote_kollegialorgane;1-A-3;Organe mit erfüllter Quote
+1_A_3_frauenquote_kollegialorgane;1-A-3;Universität (Codex)
+1_A_3_frauenquote_kollegialorgane;1-A-3;Universität (Langtext)
+1_A_4_gender_pay_gap;1-A-4;Frauen
+1_A_4_gender_pay_gap;1-A-4;Gender pay gap (Frauenlöhne entsprechen ...% der Männerlöhne
+1_A_4_gender_pay_gap;1-A-4;Gesamt
+1_A_4_gender_pay_gap;1-A-4;Männer
+1_A_4_gender_pay_gap;1-A-4;Universität (Codex)
+1_A_4_gender_pay_gap;1-A-4;Universität (Langtext)
+1_A_5_frauen_berufungsverfahren;1-A-5;Jahr
+1_A_5_frauen_berufungsverfahren;1-A-5;Measures
+1_A_5_frauen_berufungsverfahren;1-A-5;Studienjahr (Kurzbezeichnung)
+2_A_1_professoren_aequivalente;2-A-1;ProfessorInnen und Äquivalente
+2_A_1_professoren_aequivalente;2-A-1;Universität (Codex)
+2_A_1_professoren_aequivalente;2-A-1;Universität (Langtext)
+2_A_2_eingerichtete_studien;2-A-2;Gesamt
+2_A_2_eingerichtete_studien;2-A-2;Universität (Codex)
+2_A_2_eingerichtete_studien;2-A-2;Universität (Langtext)
+2_A_3_studienabschlussquote;2-A-3;Frauen 
+2_A_3_studienabschlussquote;2-A-3;Gesamt 
+2_A_3_studienabschlussquote;2-A-3;Männer 
+2_A_3_studienabschlussquote;2-A-3;Universität (Codex)
+2_A_3_studienabschlussquote;2-A-3;Universität (Langtext)
+2_A_4_zulassungsbedingungen;2-A-4;Frauen
+2_A_4_zulassungsbedingungen;2-A-4;Gesamt
+2_A_4_zulassungsbedingungen;2-A-4;Männer
+2_A_4_zulassungsbedingungen;2-A-4;Universität (Codex)
+2_A_4_zulassungsbedingungen;2-A-4;Universität (Langtext)
+2_A_5_anzahl_studierenden;2-A-5;Gesamt 
+2_A_5_anzahl_studierenden;2-A-5;Universität (Codex)
+2_A_5_anzahl_studierenden;2-A-5;Universität (Langtext)
+2_A_5_anzahl_studierenden;2-A-5;außerordentliche Studierende
+2_A_5_anzahl_studierenden;2-A-5;ordentliche Studierende
+2_A_6_pruefungsaktive;2-A-6;Frauen
+2_A_6_pruefungsaktive;2-A-6;Gesamt
+2_A_6_pruefungsaktive;2-A-6;Männer
+2_A_6_pruefungsaktive;2-A-6;Universität (Codex)
+2_A_6_pruefungsaktive;2-A-6;Universität (Langtext)
+2_A_7_belegte_studien;2-A-7;Universität (Codex)
+2_A_7_belegte_studien;2-A-7;Universität (Langtext)
+2_A_7_belegte_studien;2-A-7;Wintersemester 2022 (Stichtag: 28.02.2023)
+2_A_7_belegte_studien;2-A-7;Wintersemester 2023 (Stichtag: 28.02.2024)
+2_A_7_belegte_studien;2-A-7;Wintersemester 2024 (Stichtag: 03.01.2025)
+2_A_7_universitaetslehrgaenge;2-A-7;Staatengruppe (Ö, EU, andere)
+2_A_7_universitaetslehrgaenge;2-A-7;Studien
+2_A_7_universitaetslehrgaenge;2-A-7;Universität (Codex)
+2_A_7_universitaetslehrgaenge;2-A-7;Universität (Langtext)
+2_A_8_outgoing;2-A-8;Drittstaaten
+2_A_8_outgoing;2-A-8;EU
+2_A_8_outgoing;2-A-8;Gesamt
+2_A_8_outgoing;2-A-8;Universität (Codex)
+2_A_8_outgoing;2-A-8;Universität (Langtext)
+2_A_9_incoming;2-A-9;Drittstaaten
+2_A_9_incoming;2-A-9;EU
+2_A_9_incoming;2-A-9;Gesamt
+2_A_9_incoming;2-A-9;Universität (Codex)
+2_A_9_incoming;2-A-9;Universität (Langtext)
+2_B_1_doktoratsstudierende;2-B-1;Frauen
+2_B_1_doktoratsstudierende;2-B-1;Gesamt
+2_B_1_doktoratsstudierende;2-B-1;Männer
+2_B_1_doktoratsstudierende;2-B-1;Universität (Codex)
+2_B_1_doktoratsstudierende;2-B-1;Universität (Langtext)
+3_A_1_studienabschluesse_ausserordentlich;3-A-1;Außerordentliche Studienabschlüsse
+3_A_1_studienabschluesse_ausserordentlich;3-A-1;Staatengruppe (Ö, EU, andere)
+3_A_1_studienabschluesse_ausserordentlich;3-A-1;Universität (Codex)
+3_A_1_studienabschluesse_ausserordentlich;3-A-1;Universität (Langtext)
+3_A_1_studienabschluesse_ordentlich;3-A-1;Studienjahr 2021/22
+3_A_1_studienabschluesse_ordentlich;3-A-1;Studienjahr 2022/23
+3_A_1_studienabschluesse_ordentlich;3-A-1;Studienjahr 2023/24
+3_A_1_studienabschluesse_ordentlich;3-A-1;Universität (Codex)
+3_A_1_studienabschluesse_ordentlich;3-A-1;Universität (Langtext)
+3_A_2_toleranzstudiendauer;3-A-2;Studienjahr 2021/22
+3_A_2_toleranzstudiendauer;3-A-2;Studienjahr 2022/23
+3_A_2_toleranzstudiendauer;3-A-2;Studienjahr 2023/24
+3_A_2_toleranzstudiendauer;3-A-2;Universität (Codex)
+3_A_2_toleranzstudiendauer;3-A-2;Universität (Langtext)

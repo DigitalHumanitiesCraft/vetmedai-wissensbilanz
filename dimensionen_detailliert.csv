@@ -1,0 +1,8 @@
+﻿Kennzahl_Datei;Kennzahl_ID;Dimension_Key;Anzahl_Werte;Beispiel_Werte
+1_A_1_personal_koepfe;1-A-1;parent_category;1;None
+1_A_1_personal_koepfe;1-A-1;personalkategorie;22;UA, UB, UC, UD, UE ... (+17 weitere)
+1_A_1_personal_vzae;1-A-1;parent_category;1;None
+1_A_1_personal_vzae;1-A-1;personalkategorie;22;UA, UB, UC, UD, UE ... (+17 weitere)
+2_A_1_professoren_aequivalente;2-A-1;parent_category;1;None
+2_A_1_professoren_aequivalente;2-A-1;personalkategorie;21;UA, UB, UC, UD, UE ... (+16 weitere)
+2_A_5_anzahl_studierenden;2-A-5;geschlecht;1;gesamt

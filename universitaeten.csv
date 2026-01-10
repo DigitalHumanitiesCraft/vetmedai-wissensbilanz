@@ -1,0 +1,23 @@
+﻿universität_code;universität_name;uni_type;bundesland
+UA;Universität Wien;volluniversität;Wien
+UB;Universität Graz;volluniversität;Steiermark
+UC;Universität Innsbruck;volluniversität;Tirol
+UD;Universität Salzburg;volluniversität;Salzburg
+UE;Universität Klagenfurt;volluniversität;Kärnten
+UF;Universität Linz;volluniversität;Oberösterreich
+UG;Technische Universität Wien;technisch;Wien
+UH;Technische Universität Graz;technisch;Steiermark
+UI;Montanuniversität Leoben;technisch;Steiermark
+UJ;Universität für Bodenkultur Wien;volluniversität;Wien
+UK;Universität für künstlerische und industrielle Gestaltung Linz;kunst;Oberösterreich
+UL;Universität Mozarteum Salzburg;kunst;Salzburg
+UM;Universität für Musik und darstellende Kunst Wien;kunst;Wien
+UN;Universität für Musik und darstellende Kunst Graz;kunst;Steiermark
+UO;Akademie der bildenden Künste Wien;kunst;Wien
+UQ;Universität für angewandte Kunst Wien;kunst;Wien
+UR;Universität für Weiterbildung Krems;weiterbildung;Niederösterreich
+US;Medizinische Universität Wien;medizinisch;Wien
+UT;Medizinische Universität Graz;medizinisch;Steiermark
+UU;Medizinische Universität Innsbruck;medizinisch;Tirol
+UV;Veterinärmedizinische Universität Wien;medizinisch;Wien
+UW;Wirtschaftsuniversität Wien;volluniversität;Wien

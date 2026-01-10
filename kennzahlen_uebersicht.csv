@@ -1,0 +1,22 @@
+﻿Dateiname;Kennzahl_ID;Kennzahl_Name;Kategorie;Einheit;Anzahl_Datensätze;Hat_Dimensionen
+1_A_1_personal_koepfe;1-A-1;Personal - Köpfe;Personal;Personen;132;Ja
+1_A_1_personal_vzae;1-A-1;Personal - VZÄ;Personal;VZÄ;132;Ja
+1_A_2_berufungen;1-A-2;Berufungen an die Universität;Personal;Anzahl;242;Nein
+1_A_3_frauenquote_kollegialorgane;1-A-3;Frauenquote in Kollegialorganen;Personal;Prozent;440;Nein
+1_A_4_gender_pay_gap;1-A-4;Gender Pay Gap;Personal;Prozent;374;Nein
+1_A_5_frauen_berufungsverfahren;1-A-5;Repräsentanz von Frauen in Berufungsverfahren;Personal;Prozent;12;Nein
+2_A_1_professoren_aequivalente;2-A-1;ProfessorInnen und Äquivalente;Personal;VZÄ;105;Ja
+2_A_2_eingerichtete_studien;2-A-2;Eingerichtete Studien;Studien;Anzahl;110;Nein
+2_A_3_studienabschlussquote;2-A-3;Studienabschlussquote;Studierende;Prozent;231;Nein
+2_A_4_zulassungsbedingungen;2-A-4;Besondere Zulassungsbedingungen;Studien;Anzahl;231;Nein
+2_A_5_anzahl_studierenden;2-A-5;Anzahl Studierenden;Studierende;Personen;242;Ja
+2_A_6_pruefungsaktive;2-A-6;Anzahl Prüfungsaktive;Studierende;Personen;231;Nein
+2_A_7_belegte_studien;2-A-7;Anzahl belegte ordentliche Studien;Studierende;Anzahl;110;Nein
+2_A_7_universitaetslehrgaenge;2-A-7;Anzahl belegte Universitätslehrgänge;Studierende;Anzahl;48;Nein
+2_A_8_outgoing;2-A-8;Ordentliche Studierende (outgoing);Mobilität;Personen;231;Nein
+2_A_9_incoming;2-A-9;Ordentliche Studierende (incoming);Mobilität;Personen;231;Nein
+2_B_1_doktoratsstudierende;2-B-1;Doktoratsstudierende mit BV zur Universität;Studierende;Personen;242;Nein
+3_A_1_studienabschluesse_ausserordentlich;3-A-1;Außerordentliche Studienabschlüsse;Abschlüsse;Anzahl;48;Nein
+3_A_1_studienabschluesse_ordentlich;3-A-1;Ordentliche Studienabschlüsse;Abschlüsse;Anzahl;110;Nein
+3_A_2_toleranzstudiendauer;3-A-2;Studienabschlüsse in der Toleranzstudiendauer;Abschlüsse;Anzahl;105;Nein
+3_A_3_auslandsaufenthalt;3-A-3;Studienabschlüsse mit studienbezogenem Auslandsaufenthalt;Abschlüsse;Anzahl;0;Nein
