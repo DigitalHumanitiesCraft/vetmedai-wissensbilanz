@@ -31,6 +31,27 @@ Display Labels sind primäre Differenzierung (nicht `dimensionen`-Objekt). Nur 4
 
 ---
 
+### `explore_personalkategorien.py`
+**Forschungsfrage:** Sind Personalkategorien (Professor, Dozent, etc.) für Betreuungsrelation verfügbar?
+
+**Input:**
+- `data/json/1_A_1_personal_koepfe.json`
+- `data/json/1_A_1_personal_vzae.json`
+- `data/json/2_A_1_professoren_aequivalente.json`
+
+**Output:**
+- Konsolenausgabe: Struktur-Analyse
+
+**Verwendung:**
+```bash
+python scripts/explore_personalkategorien.py
+```
+
+**Kritische Erkenntnis:**
+Personalkategorien (Professor, Dozent, etc.) NICHT in Daten vorhanden. `dimensionen.personalkategorie` enthält Uni-Codes (UA, UB, ...), keine Kategorien. Betreuungsrelation-Formel aus User-Story D-03 nur eingeschränkt umsetzbar (nur mit 2-A-1 ProfessorInnen & Äquivalente statt detaillierter Kategorien).
+
+---
+
 ## 01_descriptive - Deskriptive Statistiken
 *Noch keine Scripts*
 

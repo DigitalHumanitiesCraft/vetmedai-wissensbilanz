@@ -15,6 +15,7 @@
 
 ### Projektziele & Anforderungen
 - [[requirements]] - Forschungsfragen & Projektziele (komprimiert)
+- [[user-stories]] - User Stories für VetMedAI Workshop (11.02.2026) - Validierungshypothesen
 
 ---
 
@@ -38,11 +39,17 @@
 - Prozent-Kennzahlen nicht einfach summierbar
 - 3-A-3 (Auslandsaufenthalt) hat 0 Datenpunkte
 
+**Kritische Negative Erkenntnisse:**
+- Personalkategorien (Professor, Dozent, etc.) NICHT in Daten vorhanden
+- dimensionen.personalkategorie enthält Uni-Codes, keine Kategorien
+- Betreuungsrelation-Formel aus User-Story D-03 nur eingeschränkt umsetzbar
+
 **Exploration-Status:**
-- ✅ Foundation: Metadaten-Extraktion (`scripts/analyze_data.py`)
-- 🔄 Descriptive: TODO (Verteilungen, Null-Werte, Vollständigkeit)
-- 🔄 Comparative: TODO (Uni-Typen, Trends, Bundesländer)
-- 🔄 Relational: TODO (Korrelationen, Beziehungen)
+- Foundation: Metadaten-Extraktion (scripts/analyze_data.py)
+- Foundation: Personalkategorien-Analyse (scripts/explore_personalkategorien.py)
+- Descriptive: TODO (Summen, Prozente, Null-Werte)
+- Comparative: TODO (VZÄ vs Köpfe, Subset-Validierung)
+- Relational: TODO (Korrelationen, Zeitreihen-Ausreißer)
 
 ---
 

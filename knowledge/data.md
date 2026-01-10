@@ -96,17 +96,22 @@
 
 **Wichtig:** Nur 4 von 21 Kennzahlen nutzen das `dimensionen`-Objekt. Bei allen anderen ist `dimensionen: {}` leer.
 
+**Kritisch für Betreuungsrelation (User-Story D-03):**
+- `dimensionen.personalkategorie` enthält **Uni-Codes** (UA, UB, ...), **NICHT Personalkategorien** (Professor, Dozent, etc.)
+- Differenzierung nach Verwendungskategorien (Professor/Dozent/Assistenten) ist in den Daten **NICHT verfügbar**
+- Betreuungsrelation kann nur mit 2-A-1 "ProfessorInnen & Äquivalente" berechnet werden (Gesamtzahl, keine Aufschlüsselung)
+
 ### Kennzahlen MIT Dimensionen
 
-| Kennzahl | Dimensions-Keys | Werte |
-|----------|-----------------|-------|
-| 1-A-1 Personal Köpfe | `personalkategorie` | UA, UB, UC, ..., UW (alle 22 Uni-Codes) |
-|  | `parent_category` | null |
-| 1-A-1 Personal VZÄ | `personalkategorie` | UA, UB, UC, ..., UW (alle 22 Uni-Codes) |
-|  | `parent_category` | null |
-| 2-A-1 ProfessorInnen | `personalkategorie` | UA, UB, UC, ..., UW (21 Uni-Codes) |
-|  | `parent_category` | null |
-| 2-A-5 Studierende | `geschlecht` | gesamt |
+| Kennzahl | Dimensions-Keys | Werte | Kritische Anmerkung |
+|----------|-----------------|-------|---------------------|
+| 1-A-1 Personal Köpfe | `personalkategorie` | UA, UB, UC, ..., UW (alle 22 Uni-Codes) | Uni-Codes, keine Kategorien! |
+|  | `parent_category` | null | |
+| 1-A-1 Personal VZÄ | `personalkategorie` | UA, UB, UC, ..., UW (alle 22 Uni-Codes) | Uni-Codes, keine Kategorien! |
+|  | `parent_category` | null | |
+| 2-A-1 ProfessorInnen | `personalkategorie` | UA, UB, UC, ..., UW (21 Uni-Codes) | Uni-Codes, keine Kategorien! |
+|  | `parent_category` | null | |
+| 2-A-5 Studierende | `geschlecht` | gesamt | |
 
 ### Display Labels (Hauptdifferenzierung)
 
