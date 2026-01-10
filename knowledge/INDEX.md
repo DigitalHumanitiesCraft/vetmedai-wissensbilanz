@@ -47,9 +47,16 @@
 **Exploration-Status:**
 - Foundation: Metadaten-Extraktion (scripts/analyze_data.py)
 - Foundation: Personalkategorien-Analyse (scripts/explore_personalkategorien.py)
+- Foundation: User-Story-Validierung (scripts/validate_all_stories.py)
 - Descriptive: TODO (Summen, Prozente, Null-Werte)
 - Comparative: TODO (VZÄ vs Köpfe, Subset-Validierung)
 - Relational: TODO (Korrelationen, Zeitreihen-Ausreißer)
+
+**User-Story-Machbarkeit (für Workshop 11.02.2026):**
+- 6 von 7 Dashboard-Stories vollständig umsetzbar
+- D-03 Betreuungsrelation eingeschränkt (Personalkategorien fehlen)
+- Alle Textgenerierungs-Stories (B-01 bis B-04) umsetzbar
+- Report: outputs/reports/user_story_feasibility.md
 
 ---
 

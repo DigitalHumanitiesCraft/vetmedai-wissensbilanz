@@ -52,6 +52,29 @@ Personalkategorien (Professor, Dozent, etc.) NICHT in Daten vorhanden. `dimensio
 
 ---
 
+### `validate_all_stories.py`
+**Forschungsfrage:** Welche User Stories sind mit vorhandenen Daten umsetzbar?
+
+**Input:**
+- `data/json/*.json` (alle 21 Kennzahlen)
+- `knowledge/user-stories.md`
+
+**Output:**
+- `outputs/reports/user_story_feasibility.md` - Vollständiger Machbarkeitsreport
+
+**Verwendung:**
+```bash
+python scripts/validate_all_stories.py
+```
+
+**Zentrale Erkenntnisse:**
+- 6 von 7 Dashboard-Stories vollständig umsetzbar
+- 1 Story (D-03 Betreuungsrelation) eingeschränkt umsetzbar
+- Alle Textgenerierungs-Stories umsetzbar
+- 3 kritische Workshop-Fragen identifiziert
+
+---
+
 ## 01_descriptive - Deskriptive Statistiken
 *Noch keine Scripts*
 
