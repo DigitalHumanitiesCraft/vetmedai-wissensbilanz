@@ -6,6 +6,32 @@
 
 ---
 
+## Machbarkeitsanalyse gegen tatsächliche Daten
+
+**Vollständige Reports:**
+- [User Story Feasibility](../outputs/reports/user_story_feasibility.md) - Allgemeine Machbarkeit
+- [Epic VetMedUni Feasibility](../outputs/reports/epic_vetmeduni_feasibility.md) - VetMedUni-spezifische Validierung
+
+**Zusammenfassung:**
+
+| Story | Machbarkeit | Kritischer Befund |
+|-------|-------------|-------------------|
+| D-01 Zeitreihen | OK Umsetzbar | Warnung: Erhebungsmethoden geändert (12/21 Kennzahlen mit 2022-2024) |
+| D-02 Uni-Vergleich | OK Umsetzbar | 4 MedUnis verfügbar, Durchschnitt bei Prozent eingeschränkt |
+| D-03 Betreuungsrelation | KRITISCH | Formel nicht verifizierbar (Abweichung 6.5 zwischen Berechnung und Epic-Angabe) |
+| D-04 Abweichungen | OK Umsetzbar | - |
+| D-05 Datenqualität | OK Umsetzbar | - |
+| B-01 bis B-04 Text | OK Umsetzbar | LLM-basiert, keine Daten-Blocker |
+
+**Legende:** OK = Vollständig umsetzbar, KRITISCH = Daten-Validierung erforderlich
+
+**Kritische Erkenntnisse:**
+1. **Betreuungsrelation (D-03):** Berechnet 1:11.1, Epic gibt 1:17.6 an (Abweichung 6.5). Entweder andere Formel oder andere Datenquelle.
+2. **Prüfungsaktive Quote:** Berechnet 73.7%, Epic gibt >90% an. Definition unklar (Diplomstudium vs. alle Studien?).
+3. **Personalkategorien fehlen:** Professor/Dozent/Assoziierte Prof. nicht differenziert in UniData.
+
+---
+
 ## Persona
 
 **Michael Forster** – Fachverantwortlicher für Wissensbilanz und Berichtswesen an der VetMedUni Wien.
@@ -55,14 +81,28 @@ Arbeitet mit UniData-Kennzahlen, erstellt den jährlichen Leistungsbericht (Kurz
 
 **Begründung**: Die Betreuungsrelation ist ein "wesentlicher Indikator für die Universitätsfinanzierung" (BMBWF). Der Hochschulplan 2030 definiert Zielwerte (1:35). Die Berechnung erfordert die Kombination von Personal- und Studierendendaten.
 
-**Akzeptanzkriterien**:
-- Berechnung: Prüfungsaktive Studien / VZÄ (Professoren + Dozenten + Assoziierte Professoren)
+**Akzeptanzkriterien (ANGEPASST nach Datenvalidierung)**:
+- Berechnung möglich: Prüfungsaktive Studien (2-A-6 Gesamt) / ProfessorInnen & Äquivalente (2-A-1)
 - Vergleich mit Zielwert aus Leistungsvereinbarung
 - Zeitreihe der Betreuungsrelation
 
 **Priorität (Hypothese)**: Hoch (finanzierungsrelevant)
 
-**Offene Frage**: Welche Personalkategorien zählen zur "Professorenebene" an der VetMedUni?
+**KRITISCHER VALIDIERUNGSBEFUND:**
+- **Original-Formel (aus Recherche):** Prüfungsaktive / VZÄ (Professoren + Dozenten + Assoz. Prof.)
+- **Problem:** Personalkategorien (Prof/Dozent/Assoz.Prof) NICHT in UniData differenziert
+- **Mögliche Formel:** Prüfungsaktive (2-A-6) / ProfessorInnen & Äquivalente (2-A-1)
+- **Berechnet für VetMedUni 2024:** 1:11.1
+- **Epic-Angabe VetMedUni:** 1:17.6
+- **Abweichung:** 6.5 (sehr hoch!)
+
+**Workshop-Klärung ZWINGEND erforderlich:**
+1. Welche exakte Formel nutzt VetMedUni für Betreuungsrelation 1:17.6?
+2. Nutzt VetMedUni interne Datenquellen (nicht aus UniData)?
+3. Ist "Diplomstudium" eine Teilmenge von "Prüfungsaktive Studien"?
+4. Sind "Professoren + Dozenten + Assoz.Prof" identisch mit "ProfessorInnen & Äquivalente"?
+
+**Ohne Klärung:** Feature nur mit Disclaimer "Vereinfachte Berechnung, Abweichung zur offiziellen Zahl möglich" umsetzbar.
 
 ---
 
