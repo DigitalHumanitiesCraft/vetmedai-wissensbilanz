@@ -15,11 +15,11 @@
 - `data/json/*.json` (21 Kennzahl-Dateien)
 
 **Output:**
-- `universitaeten.csv` - 22 Universitäten mit Codes, Typen, Bundesländern
-- `kennzahlen_uebersicht.csv` - 21 Kennzahlen-Übersicht
-- `dimensionen_detailliert.csv` - Dimensionen-Analyse (4 Kennzahlen nutzen Dimensionen)
-- `display_labels.csv` - 99 eindeutige Display Labels
-- `meta_values.csv` - Time Types (3) und Einheiten (4)
+- `outputs/tables/universitaeten.csv` - 22 Universitäten mit Codes, Typen, Bundesländern
+- `outputs/tables/kennzahlen_uebersicht.csv` - 21 Kennzahlen-Übersicht
+- `outputs/tables/dimensionen_detailliert.csv` - Dimensionen-Analyse (4 Kennzahlen nutzen Dimensionen)
+- `outputs/tables/display_labels.csv` - 99 eindeutige Display Labels
+- `outputs/tables/meta_values.csv` - Time Types (3) und Einheiten (4)
 
 **Verwendung:**
 ```bash

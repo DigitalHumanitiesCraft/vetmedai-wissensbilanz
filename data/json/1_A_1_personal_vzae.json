@@ -1,0 +1,3783 @@
+{
+  "metadata": {
+    "kennzahl_id": "1-A-1",
+    "kennzahl_name": "Personal - VZÄ",
+    "kategorie": "Personal",
+    "einheit": "VZÄ",
+    "beschreibung": "Personal als Vollzeitäquivalente",
+    "structured_metadata": {
+      "definition": "Kennzahl 1.A.1 - Gesamtübersicht Nähere Informationen zu den Kennzahlen bzw. deren Definition finden sich in der aktuellen Ausgabe des Arbeitsbehelfs zur Wissensbilanz-Verordnung.",
+      "data_source": "Quelle: Datenmeldungen der Universitäten auf Basis UHSBV zum jeweiligen Stichtag",
+      "methodology": "Anmerkung: Aufgrund von Änderungen in den Erhebungsmethoden sind die Indikatorwerte im zeitlichen Verlauf nicht immer direkt vergleichbar.",
+      "legal_basis": "Alle Verwendungen gemäß Z 3.6 der Anlage 9 UHSBV Quelle: Datenmeldungen der Universitäten auf Basis UHSBV zum jeweiligen Stichtag",
+      "official_notes": "Anmerkung: Aufgrund von Änderungen in den Erhebungsmethoden sind die Indikatorwerte im zeitlichen Verlauf nicht immer direkt vergleichbar."
+    },
+    "aggregation_rule": "sum"
+  },
+  "data": [
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 20,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 20,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 20,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": 4282.501699999998,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 20,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": 4182.532199999999,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 20,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": 4172.3928000000005,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 20,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": 1566.9783,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": 1570.5494000000003,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": 1573.0935,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 54,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 54,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 54,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": 2038.6461,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 54,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": 2023.2238999999995,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 54,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": 2027.9431999999997,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 54,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 71,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 71,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 71,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": 3216.9000000000005,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 71,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": 3099.82,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 71,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": 2999.0400000000004,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 71,
+        "parsed_at": "2025-11-11T21:12:37.288567",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 88,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 88,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 88,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": 1079.9052000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 88,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": 1102.9327000000003,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 88,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": 1045.2567000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 88,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 105,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 105,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 105,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": 1037.5824,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 105,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": 1001.5402,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 105,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": 963.5224,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 105,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 122,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 122,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 122,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": 1095.6227000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 122,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": 1088.1947999999998,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 122,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": 1073.1652,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 122,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 139,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 139,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 139,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": 2964.7875000000017,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 139,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": 2847.600000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 139,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": 2742.9,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 139,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 156,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 156,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 156,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": 1584.9814999999999,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 156,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": 1666.5773,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 156,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": 1644.7418999999995,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 156,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 173,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 173,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 173,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": 617.692,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 173,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": 621.14,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 173,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": 618.4406999999999,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 173,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 190,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 190,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 190,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": 1233.8345000000002,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 190,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": 1214.7651,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 190,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": 1173.702,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 190,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 207,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 207,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 207,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": 587.1857000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 207,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": 581.3512000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 207,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": 551.7432,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 207,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 224,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 224,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 224,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": 886.3102999999999,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 224,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": 833.6102999999999,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 224,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": 851.7931999999996,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 224,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 241,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 241,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 241,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": 1371.0361999999998,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 241,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": 1316.8670999999997,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 241,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": 1325.2116000000003,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 241,
+        "parsed_at": "2025-11-11T21:12:37.294478",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 258,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 258,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 258,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": 526.364,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 258,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": 525.4504999999997,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 258,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": 526.2965999999997,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 258,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 275,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 275,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 275,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": 285.89480000000003,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 275,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": 291.85740000000004,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 275,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": 294.16040000000004,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 275,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 292,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 292,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 292,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": 640.3858000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 292,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": 632.1583,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 292,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": 624.6833,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 292,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 309,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 309,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 309,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": 346.22980000000007,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 309,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": 341.2711,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 309,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": 345.67839999999995,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 309,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 326,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 326,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 326,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": 328.4548,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 326,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": 323.3412000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 326,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": 320.114,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 326,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 343,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 343,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 343,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": 174.5675,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 343,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": 162.582,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 343,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": 152.8018,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 343,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 360,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 360,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 360,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": 193.21249999999998,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 360,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": 194.9375,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 360,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": 190.0,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 360,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 377,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 377,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 377,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": 325.8896000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 377,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": 323.99749999999995,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 377,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - VZÄ",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": 329.41309999999993,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - VZÄ.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 377,
+        "parsed_at": "2025-11-11T21:12:37.304472",
+        "parser_version": "1.0"
+      }
+    }
+  ],
+  "validation_warnings": [],
+  "generated_at": "2025-11-11T21:12:37.304472"
+}

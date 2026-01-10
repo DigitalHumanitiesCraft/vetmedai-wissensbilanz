@@ -52,8 +52,8 @@
 - `scripts/README.md`: Script-Dokumentation
 
 **Referenzdaten (generiert):**
-- `universitaeten.csv`, `kennzahlen_uebersicht.csv`, `display_labels.csv`
-- `dimensionen_detailliert.csv`, `meta_values.csv`
+- `outputs/tables/universitaeten.csv`, `outputs/tables/kennzahlen_uebersicht.csv`, `outputs/tables/display_labels.csv`
+- `outputs/tables/dimensionen_detailliert.csv`, `outputs/tables/meta_values.csv`
 
 ### Nächste Schritte
 

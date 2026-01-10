@@ -1,0 +1,3003 @@
+{
+  "metadata": {
+    "kennzahl_id": "2-A-1",
+    "kennzahl_name": "ProfessorInnen und Äquivalente",
+    "kategorie": "Personal",
+    "einheit": "VZÄ",
+    "beschreibung": "ProfessorInnen und Äquivalente",
+    "structured_metadata": {
+      "definition": "Kennzahl 2.A.1 - Gesamtübersicht Anmerkung: Aufgrund von Sonderbestimmungen entfällt diese Kennzahl für die Universität für Weiterbildung Krems. Nähere Informationen zu den Kennzahlen bzw. deren Definition finden sich in der aktuellen Ausgabe des Arbeitsbehelfs zur Wissensbilanz-Verordnung.",
+      "data_source": "Quelle: Datenmeldungen der Universitäten auf Basis WBV",
+      "methodology": "Anmerkung: Aufgrund von Änderungen in den Erhebungsmethoden sind die Indikatorwerte im zeitlichen Verlauf nicht immer direkt vergleichbar.",
+      "legal_basis": "Quelle: Datenmeldungen der Universitäten auf Basis WBV",
+      "official_notes": "Anmerkung: Aufgrund von Sonderbestimmungen entfällt diese Kennzahl für die Universität für Weiterbildung Krems. Anmerkung: Aufgrund von Änderungen in den Erhebungsmethoden sind die Indikatorwerte im zeitlichen Verlauf nicht immer direkt vergleichbar."
+    },
+    "aggregation_rule": "sum"
+  },
+  "data": [
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 23,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 23,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": 825.7800000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 23,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": 734.25,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 23,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": 732.12,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 23,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 24,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 24,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": 410.23999999999995,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 24,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": 376.7,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 24,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": 390.03000000000003,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 24,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 25,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 25,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": 569.2799999999999,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 25,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": 454.44,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 25,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": 457.6999999999999,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 25,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 26,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 26,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": 353.83,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 26,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": 376.34,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 26,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": 376.68999999999994,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 26,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 27,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 27,
+        "parsed_at": "2025-11-11T21:12:37.491735",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": 145.7,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 27,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": 130.76,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 27,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": 138.52,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 27,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 28,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 28,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": 159.82,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 28,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": 137.9,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 28,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": 142.44,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 28,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 29,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 29,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": 288.1400000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 29,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": 276.78000000000003,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 29,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": 284.47999999999996,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 29,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 30,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 30,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": 432.29999999999995,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 30,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": 357.9,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 30,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": 348.8,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 30,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 31,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 31,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": 302.79999999999995,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 31,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": 250.24999999999997,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 31,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": 250.39999999999998,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 31,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 32,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 32,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": 80.3,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 32,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": 74.0,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 32,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": 77.9,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 32,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 33,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 33,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": 206.85,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 33,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": 192.03999999999996,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 33,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": 196.41000000000003,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 33,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 34,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 34,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": 90.04999999999998,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 34,
+        "parsed_at": "2025-11-11T21:12:37.493740",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": 76.35000000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 34,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": 74.85,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 34,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 35,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 35,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": 191.26999999999998,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 35,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": 180.26,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 35,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": 176.73,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 35,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 36,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 36,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": 281.31,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 36,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": 272.8500000000001,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 36,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": 277.24000000000007,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 36,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": 137.50000000000003,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": 134.78999999999996,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": 144.21,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 37,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": 46.2,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": 45.730000000000004,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": 47.22,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 39,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 39,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": 215.53,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 39,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": 208.5,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 39,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": 214.20000000000002,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 39,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 40,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 40,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": 121.91,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 40,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": 118.24,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 40,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": 121.9,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 40,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 41,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 41,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": 127.36,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 41,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": 122.03,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 41,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": 122.52,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 41,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 42,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 42,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": 42.519999999999996,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 42,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": 41.1,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 42,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": 40.4,
+      "einheit": "VZÄ",
+      "applicable": true,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 42,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": false,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 43,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "VZÄ",
+      "applicable": false,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 43,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": 45.79,
+      "einheit": "VZÄ",
+      "applicable": false,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 43,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": 40.8,
+      "einheit": "VZÄ",
+      "applicable": false,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 43,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "2-A-1",
+      "kennzahl_name": "ProfessorInnen und Äquivalente",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "jahr",
+      "display_label": "ProfessorInnen und Äquivalente",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": 42.019999999999996,
+      "einheit": "VZÄ",
+      "applicable": false,
+      "provenance": {
+        "source_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 43,
+        "parsed_at": "2025-11-11T21:12:37.494744",
+        "parser_version": "1.0"
+      }
+    }
+  ],
+  "validation_warnings": [],
+  "generated_at": "2025-11-11T21:12:37.494744"
+}

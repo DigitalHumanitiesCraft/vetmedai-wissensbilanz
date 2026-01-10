@@ -53,7 +53,10 @@ scripts/            # Exploration-Scripts (Phase 2)
 data/
   ├── json/         # 21 konvertierte Kennzahl-Dateien
   └── *.xlsx        # 74 Excel-Rohdateien
-outputs/            # Generierte Analysen (noch leer)
+outputs/
+  ├── tables/       # CSV-Referenzdaten (Metadaten-Extraktion)
+  ├── figures/      # Visualisierungen (noch leer)
+  └── reports/      # Analyse-Reports (noch leer)
 ```
 
 ---

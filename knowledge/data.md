@@ -279,11 +279,11 @@ df[(df['wert'].notna()) & (df['applicable'] == True)]
 
 Alle extrahierten Metadaten verfügbar in:
 
-- `universitaeten.csv` - Universitätsliste
-- `kennzahlen_uebersicht.csv` - Kennzahlen-Übersicht
-- `display_labels.csv` - Alle Display Labels
-- `dimensionen_detailliert.csv` - Dimensionen-Analyse
-- `meta_values.csv` - Time Types & Einheiten
+- `outputs/tables/universitaeten.csv` - Universitätsliste
+- `outputs/tables/kennzahlen_uebersicht.csv` - Kennzahlen-Übersicht
+- `outputs/tables/display_labels.csv` - Alle Display Labels
+- `outputs/tables/dimensionen_detailliert.csv` - Dimensionen-Analyse
+- `outputs/tables/meta_values.csv` - Time Types & Einheiten
 
 **Generiert durch:** `scripts/analyze_data.py`
 

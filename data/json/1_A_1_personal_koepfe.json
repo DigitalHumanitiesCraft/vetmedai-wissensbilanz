@@ -1,0 +1,3783 @@
+{
+  "metadata": {
+    "kennzahl_id": "1-A-1",
+    "kennzahl_name": "Personal - Köpfe",
+    "kategorie": "Personal",
+    "einheit": "Personen",
+    "beschreibung": "Anzahl Mitarbeiter als physische Personen",
+    "structured_metadata": {
+      "definition": "Kennzahl 1.A.1 - Gesamtübersicht Nähere Informationen zu den Kennzahlen bzw. deren Definition finden sich in der aktuellen Ausgabe des Arbeitsbehelfs zur Wissensbilanz-Verordnung.",
+      "data_source": "Quelle: Datenmeldungen der Universitäten auf Basis UHSBV zum jeweiligen Stichtag",
+      "methodology": "Anmerkung: Aufgrund von Änderungen in den Erhebungsmethoden sind die Indikatorwerte im zeitlichen Verlauf nicht immer direkt vergleichbar.",
+      "legal_basis": "Alle Verwendungen gemäß Z 3.6 der Anlage 9 UHSBV Quelle: Datenmeldungen der Universitäten auf Basis UHSBV zum jeweiligen Stichtag",
+      "official_notes": "Anmerkung: Aufgrund von Änderungen in den Erhebungsmethoden sind die Indikatorwerte im zeitlichen Verlauf nicht immer direkt vergleichbar."
+    },
+    "aggregation_rule": "sum"
+  },
+  "data": [
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 21,
+        "parsed_at": "2025-11-11T21:12:37.234397",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 21,
+        "parsed_at": "2025-11-11T21:12:37.234397",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 21,
+        "parsed_at": "2025-11-11T21:12:37.234397",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": 7640.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 21,
+        "parsed_at": "2025-11-11T21:12:37.234397",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": 7503.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 21,
+        "parsed_at": "2025-11-11T21:12:37.234397",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UA",
+      "universität_name": "Universität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UA",
+        "parent_category": null
+      },
+      "wert": 7535.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 21,
+        "parsed_at": "2025-11-11T21:12:37.234397",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": 3270.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": 3274.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UB",
+      "universität_name": "Universität Graz",
+      "uni_type": "volluniversität",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UB",
+        "parent_category": null
+      },
+      "wert": 3292.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 38,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 55,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 55,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 55,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": 4018.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 55,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": 3982.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 55,
+        "parsed_at": "2025-11-11T21:12:37.235420",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UC",
+      "universität_name": "Universität Innsbruck",
+      "uni_type": "volluniversität",
+      "bundesland": "Tirol",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UC",
+        "parent_category": null
+      },
+      "wert": 3992.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 55,
+        "parsed_at": "2025-11-11T21:12:37.236440",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 72,
+        "parsed_at": "2025-11-11T21:12:37.236440",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 72,
+        "parsed_at": "2025-11-11T21:12:37.236440",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 72,
+        "parsed_at": "2025-11-11T21:12:37.236440",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": 4704.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 72,
+        "parsed_at": "2025-11-11T21:12:37.236440",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": 4491.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 72,
+        "parsed_at": "2025-11-11T21:12:37.236440",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UN",
+      "universität_name": "Universität für Musik und darstellende Kunst Graz",
+      "uni_type": "kunst",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UN",
+        "parent_category": null
+      },
+      "wert": 4288.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 72,
+        "parsed_at": "2025-11-11T21:12:37.236440",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 89,
+        "parsed_at": "2025-11-11T21:12:37.236440",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 89,
+        "parsed_at": "2025-11-11T21:12:37.236440",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 89,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": 1723.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 89,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": 1690.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 89,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UO",
+      "universität_name": "Akademie der bildenden Künste Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UO",
+        "parent_category": null
+      },
+      "wert": 1609.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 89,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 106,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 106,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 106,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": 1436.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 106,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": 1402.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 106,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UQ",
+      "universität_name": "Universität für angewandte Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UQ",
+        "parent_category": null
+      },
+      "wert": 1370.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 106,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 123,
+        "parsed_at": "2025-11-11T21:12:37.237457",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 123,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 123,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": 2039.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 123,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": 2056.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 123,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UD",
+      "universität_name": "Universität Salzburg",
+      "uni_type": "volluniversität",
+      "bundesland": "Salzburg",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UD",
+        "parent_category": null
+      },
+      "wert": 2061.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 123,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 140,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 140,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 140,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": 4688.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 140,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": 4478.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 140,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UE",
+      "universität_name": "Universität Klagenfurt",
+      "uni_type": "volluniversität",
+      "bundesland": "Kärnten",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UE",
+        "parent_category": null
+      },
+      "wert": 4377.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 140,
+        "parsed_at": "2025-11-11T21:12:37.238476",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 157,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 157,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 157,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": 2679.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 157,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": 2786.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 157,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UF",
+      "universität_name": "Universität Linz",
+      "uni_type": "volluniversität",
+      "bundesland": "Oberösterreich",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UF",
+        "parent_category": null
+      },
+      "wert": 2724.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 157,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 174,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 174,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 174,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": 1006.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 174,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": 997.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 174,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UG",
+      "universität_name": "Technische Universität Wien",
+      "uni_type": "technisch",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UG",
+        "parent_category": null
+      },
+      "wert": 1017.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 174,
+        "parsed_at": "2025-11-11T21:12:37.239495",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 191,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 191,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 191,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": 2254.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 191,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": 2201.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 191,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UH",
+      "universität_name": "Technische Universität Graz",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UH",
+        "parent_category": null
+      },
+      "wert": 2166.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 191,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 208,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 208,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 208,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": 807.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 208,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": 801.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 208,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UI",
+      "universität_name": "Montanuniversität Leoben",
+      "uni_type": "technisch",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UI",
+        "parent_category": null
+      },
+      "wert": 790.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 208,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 225,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 225,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 225,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": 1878.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 225,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": 1734.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 225,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UJ",
+      "universität_name": "Universität für Bodenkultur Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UJ",
+        "parent_category": null
+      },
+      "wert": 1713.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 225,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 242,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 242,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 242,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": 3058.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 242,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": 2936.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 242,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UK",
+      "universität_name": "Universität für künstlerische und industrielle Gestaltung Linz",
+      "uni_type": "kunst",
+      "bundesland": "Oberösterreich",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UK",
+        "parent_category": null
+      },
+      "wert": 2880.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 242,
+        "parsed_at": "2025-11-11T21:12:37.240515",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 259,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 259,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 259,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": 1233.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 259,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": 1195.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 259,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UL",
+      "universität_name": "Universität Mozarteum Salzburg",
+      "uni_type": "kunst",
+      "bundesland": "Salzburg",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UL",
+        "parent_category": null
+      },
+      "wert": 1168.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 259,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 276,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 276,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 276,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": 681.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 276,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": 676.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 276,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "US",
+      "universität_name": "Medizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "US",
+        "parent_category": null
+      },
+      "wert": 672.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 276,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 293,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 293,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 293,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": 1123.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 293,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": 1099.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 293,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UT",
+      "universität_name": "Medizinische Universität Graz",
+      "uni_type": "medizinisch",
+      "bundesland": "Steiermark",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UT",
+        "parent_category": null
+      },
+      "wert": 1093.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 293,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 310,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 310,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 310,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": 675.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 310,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": 653.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 310,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UU",
+      "universität_name": "Medizinische Universität Innsbruck",
+      "uni_type": "medizinisch",
+      "bundesland": "Tirol",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UU",
+        "parent_category": null
+      },
+      "wert": 654.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 310,
+        "parsed_at": "2025-11-11T21:12:37.242525",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 327,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 327,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 327,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": 589.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 327,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": 561.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 327,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UV",
+      "universität_name": "Veterinärmedizinische Universität Wien",
+      "uni_type": "medizinisch",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UV",
+        "parent_category": null
+      },
+      "wert": 556.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 327,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 344,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 344,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 344,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": 514.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 344,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": 498.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 344,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UW",
+      "universität_name": "Wirtschaftsuniversität Wien",
+      "uni_type": "volluniversität",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UW",
+        "parent_category": null
+      },
+      "wert": 480.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 344,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 361,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 361,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 361,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": 393.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 361,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": 393.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 361,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UR",
+      "universität_name": "Universität für Weiterbildung Krems",
+      "uni_type": "weiterbildung",
+      "bundesland": "Niederösterreich",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UR",
+        "parent_category": null
+      },
+      "wert": 383.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 361,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Codex)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 378,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Universität (Langtext)",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 378,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "jahr",
+      "display_label": "Verwendungskategorien WBV",
+      "stichtag": null,
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": null,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 378,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      },
+      "null_reason": "invalid_format"
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2024,
+      "reference_year": 2024,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2024 (Stichtag: 31.12.2024)",
+      "stichtag": "2024-12-31",
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": 1067.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 378,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2023,
+      "reference_year": 2023,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2023 (Stichtag: 31.12.2023)",
+      "stichtag": "2023-12-31",
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": 1166.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 378,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    },
+    {
+      "kennzahl_id": "1-A-1",
+      "kennzahl_name": "Personal - Köpfe",
+      "kategorie": "Personal",
+      "universität_code": "UM",
+      "universität_name": "Universität für Musik und darstellende Kunst Wien",
+      "uni_type": "kunst",
+      "bundesland": "Wien",
+      "jahr": 2022,
+      "reference_year": 2022,
+      "time_type": "semester",
+      "display_label": "Wintersemester 2022 (Stichtag: 31.12.2022)",
+      "stichtag": "2022-12-31",
+      "dimensionen": {
+        "personalkategorie": "UM",
+        "parent_category": null
+      },
+      "wert": 1204.0,
+      "einheit": "Personen",
+      "applicable": true,
+      "provenance": {
+        "source_file": "1-A-1 Personal - Köpfe.xlsx",
+        "source_sheet": "Sheet1",
+        "source_row": 378,
+        "parsed_at": "2025-11-11T21:12:37.244529",
+        "parser_version": "1.0"
+      }
+    }
+  ],
+  "validation_warnings": [],
+  "generated_at": "2025-11-11T21:12:37.246546"
+}

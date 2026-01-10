@@ -1,0 +1,137 @@
+{
+  "generated_at": "2025-11-11T21:12:38.143615",
+  "results": {
+    "total": 21,
+    "successful": 21,
+    "failed": 0,
+    "errors": [],
+    "outputs": [
+      {
+        "json_file": "1_A_1_personal_koepfe.json",
+        "excel_file": "1-A-1 Personal - Köpfe.xlsx",
+        "data_points": 132,
+        "warnings": 0
+      },
+      {
+        "json_file": "1_A_1_personal_vzae.json",
+        "excel_file": "1-A-1 Personal - VZÄ.xlsx",
+        "data_points": 132,
+        "warnings": 0
+      },
+      {
+        "json_file": "1_A_2_berufungen.json",
+        "excel_file": "1-A-2 Berufungen an die Universität.xlsx",
+        "data_points": 242,
+        "warnings": 0
+      },
+      {
+        "json_file": "1_A_3_frauenquote_kollegialorgane.json",
+        "excel_file": "1-A-3 Frauenquote in Kollegialorganen.xlsx",
+        "data_points": 440,
+        "warnings": 0
+      },
+      {
+        "json_file": "1_A_4_gender_pay_gap.json",
+        "excel_file": "1-A-4 Gender pay gap.xlsx",
+        "data_points": 374,
+        "warnings": 0
+      },
+      {
+        "json_file": "1_A_5_frauen_berufungsverfahren.json",
+        "excel_file": "1-A-5 Repräsentanz von Frauen in Berufungsverfahren.xlsx",
+        "data_points": 12,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_A_1_professoren_aequivalente.json",
+        "excel_file": "2-A-1 ProfessorInnen und Äquivalente.xlsx",
+        "data_points": 105,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_A_2_eingerichtete_studien.json",
+        "excel_file": "2-A-2 Eingerichtete Studien.xlsx",
+        "data_points": 110,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_A_3_studienabschlussquote.json",
+        "excel_file": "2-A-3 Studienabschlussquote.xlsx",
+        "data_points": 231,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_A_4_zulassungsbedingungen.json",
+        "excel_file": "2-A-4 Besondere Zulassungsbedingungen.xlsx",
+        "data_points": 231,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_A_5_anzahl_studierenden.json",
+        "excel_file": "2-A-5 Anzahl Studierenden.xlsx",
+        "data_points": 242,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_A_6_pruefungsaktive.json",
+        "excel_file": "2-A-6 Anzahl Prüfungsaktive.xlsx",
+        "data_points": 231,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_A_7_belegte_studien.json",
+        "excel_file": "2-A-7 Anzahl belegte ordentliche Studien.xlsx",
+        "data_points": 110,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_A_7_universitaetslehrgaenge.json",
+        "excel_file": "2-A-7 Anzahl belegte Universitätslehrgänge.xlsx",
+        "data_points": 48,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_A_8_outgoing.json",
+        "excel_file": "2-A-8 Ordentliche Studierende (outgoing).xlsx",
+        "data_points": 231,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_A_9_incoming.json",
+        "excel_file": "2-A-9 Ordentliche Studierende (incoming).xlsx",
+        "data_points": 231,
+        "warnings": 0
+      },
+      {
+        "json_file": "2_B_1_doktoratsstudierende.json",
+        "excel_file": "2-B-1 Doktoratsstudierende mit BV zur Universität.xlsx",
+        "data_points": 242,
+        "warnings": 0
+      },
+      {
+        "json_file": "3_A_1_studienabschluesse_ordentlich.json",
+        "excel_file": "3-A-1 Ordentliche Studienabschlüsse.xlsx",
+        "data_points": 110,
+        "warnings": 0
+      },
+      {
+        "json_file": "3_A_1_studienabschluesse_ausserordentlich.json",
+        "excel_file": "3-A-1 Außerordentliche Studienabschlüsse.xlsx",
+        "data_points": 48,
+        "warnings": 0
+      },
+      {
+        "json_file": "3_A_2_toleranzstudiendauer.json",
+        "excel_file": "3-A-2 Studienabschlüsse in der Toleranzstudiendauer.xlsx",
+        "data_points": 105,
+        "warnings": 0
+      },
+      {
+        "json_file": "3_A_3_auslandsaufenthalt.json",
+        "excel_file": "3-A-3 Studienabschlüsse mit studienbezogenem Auslandsaufenthalt.xlsx",
+        "data_points": 0,
+        "warnings": 0
+      }
+    ]
+  }
+}
