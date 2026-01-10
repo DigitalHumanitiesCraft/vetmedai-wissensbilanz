@@ -11,6 +11,7 @@
 ### Datenmodell & Strukturen
 - [[data]] - Vollständige Datenmodell-Spezifikation (22 Unis, 21 Kennzahlen, 3.274 Datenpunkte)
 - [[exploration-framework]] - Methodik für Exploration-Script-Entwicklung
+- [[validation-plan]] - 6 Validierungs-Checks für Session 2 (VetMedAI-2 Framework)
 
 ### Projektziele & Anforderungen
 - [[requirements]] - Forschungsfragen & Projektziele (komprimiert)

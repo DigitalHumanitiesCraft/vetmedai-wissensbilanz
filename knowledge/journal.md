@@ -55,18 +55,36 @@
 - `outputs/tables/universitaeten.csv`, `outputs/tables/kennzahlen_uebersicht.csv`, `outputs/tables/display_labels.csv`
 - `outputs/tables/dimensionen_detailliert.csv`, `outputs/tables/meta_values.csv`
 
-### Nächste Schritte
+### Session-Abschluss
+
+**Erreicht:**
+- Ordnerstruktur etabliert (outputs/tables|figures|reports/)
+- Scripts mit relativen Pfaden und vollständigem Docstring
+- Markdown-Dokumente konsistent und aktualisiert
+- .gitignore und CLAUDE.md etabliert
+- Validation-Plan für Session 2 dokumentiert
+
+**Offene TODOs für Session 2:**
+- Phase 2 Exploration fortsetzen (Validierung, deskriptive Statistiken)
+- 6 Validierungs-Scripts gemäß validation-plan.md implementieren
+- Weitere explorative Analysen (Vergleiche, Korrelationen)
+
+---
+
+## Session 2: TBD - Exploration (Fortsetzung)
+
+**Geplant:**
 
 **Phase 2: Exploration & Mapping** (Fortsetzung)
-- Weitere Exploration-Scripts: Deskriptive Statistiken, Vergleiche, Korrelationen
-- Forschungsfragen explorativ beantworten: Was ist visualisierbar? Welche Muster existieren?
-- Negative Erkenntnisse sammeln: Was funktioniert NICHT mit den Daten?
+- Validierungs-Scripts: Summen, Prozente, VZÄ≤Köpfe, Subsets, Null-Werte, Zeitreihen
+- Deskriptive Statistiken: Verteilungen, Vollständigkeit
+- Vergleichende Analysen: Uni-Typen, Bundesländer, Zeittrends
 
 **Phase 3: Destillation** (Iteration)
 - Erkenntnisse aus Exploration → `knowledge/insights.md`
 - Design-Entscheidungen → `knowledge/design.md` (Dashboard-Konzept)
 
-**Phase 4: Implementation**
+**Phase 4: Implementation** (Spätere Session)
 - Dashboard-Entwicklung basierend auf Exploration-Erkenntnissen
 - Iterative Prototyp-Entwicklung mit LLM-Unterstützung
 
