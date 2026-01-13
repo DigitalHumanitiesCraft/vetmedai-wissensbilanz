@@ -75,6 +75,42 @@ python scripts/validate_all_stories.py
 
 ---
 
+### `validate_epic_vetmeduni.py`
+**Forschungsfrage:** Können wir die Epic VetMedUni Features mit vorhandenen Daten umsetzen?
+
+**Input:**
+- `data/json/*.json` (alle 21 Kennzahlen)
+- Epic VetMedUni Anforderungen (aus Wissensbilanz 2024, Leistungsvereinbarung 2025-2027)
+
+**Output:**
+- `outputs/reports/epic_vetmeduni_feasibility.md` - Detaillierte Machbarkeitsanalyse (400 Zeilen)
+
+**Verwendung:**
+```bash
+python scripts/validate_epic_vetmeduni.py
+```
+
+**Validierungs-Checks:**
+1. VetMedUni in Daten vorhanden
+2. Betreuungsrelation 1:17.6 berechenbar
+3. Prüfungsaktive Quote >90% berechenbar
+4. Dreijahresvergleich 2022-2024 verfügbar
+5. Vergleichsgruppe MedUnis verfügbar
+6. QS Ranking Platz 28 in Daten
+
+**Kritische Befunde:**
+- **Betreuungsrelation:** Berechnet 1:11.1, Epic 1:17.6 (Abweichung 6.5!)
+- **Prüfungsaktive Quote:** Berechnet 73.7%, Epic >90% (Definition unklar)
+- **QS Ranking:** NICHT in UniData (externe Quelle erforderlich)
+- **VetMedUni:** Fehlend in 4/21 Kennzahlen
+
+**Workshop-Klärung erforderlich:**
+1. Exakte Formel für Betreuungsrelation 1:17.6
+2. Definition "Diplomstudium" vs. "Prüfungsaktive Studien"
+3. QS Ranking-Integration notwendig oder manuelle Pflege
+
+---
+
 ## 01_descriptive - Deskriptive Statistiken
 *Noch keine Scripts*
 

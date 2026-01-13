@@ -71,18 +71,151 @@
 
 ---
 
-## Session 2: TBD - Exploration (Fortsetzung)
+## Session 2: 2026-01-10 - Epic-Validierung & User-Story-Anpassung
+
+### Kontext
+
+Fortsetzung von Session 1 am selben Tag. Fokus auf **Daten-Machbarkeit** für VetMedUni-spezifische Anforderungen und Anpassung der User Stories an tatsächlich implementierbare Features.
+
+### Promptotyping-Phasen
+
+**Phase 2: Exploration & Mapping** 🔄 Fortgesetzt
+
+**Neue Exploration-Scripts:**
+- `scripts/validate_epic_vetmeduni.py` - Validierung Epic-Anforderungen gegen UniData
+- Epic-spezifische Checks: Betreuungsrelation, Prüfungsaktive Quote, QS Ranking, Zeitreihen, Vergleichsgruppe
+
+**Kritische Erkenntnisse (Negative Befunde):**
+
+1. **Betreuungsrelation - Formel nicht verifizierbar:**
+   - Berechnet mit verfügbaren Daten: 1:11.1 (Prüfungsaktive 2024 / ProfessorInnen & Äquivalente)
+   - Epic-Angabe VetMedUni: 1:17.6
+   - **Abweichung: 6.5** (sehr hoch!)
+   - Grund: Personalkategorien (Prof/Dozent/Assoz.Prof) NICHT in UniData differenziert
+   - Konsequenz: Formel aus Recherche nicht mit Daten umsetzbar
+
+2. **Prüfungsaktive Quote - Definition unklar:**
+   - Berechnet: 73.7% (Prüfungsaktive / Ordentliche Studierende)
+   - Epic-Angabe: >90% (im Diplomstudium)
+   - Problem: "Diplomstudium" vs. "alle Studien" - Definition nicht in Daten
+   - Konsequenz: Epic-Wert nicht nachvollziehbar mit UniData
+
+3. **QS Ranking - Externe Datenquelle:**
+   - QS Ranking Platz 28 NICHT in UniData-Kennzahlen
+   - Konsequenz: Manuelle Eingabe oder separate Datenquelle erforderlich
+
+4. **VetMedUni unvollständig im Datensatz:**
+   - Fehlend in 4/21 Kennzahlen
+   - Dreijahresvergleich nur für 12/21 Kennzahlen vollständig (2022-2024)
+
+**Phase 3: Destillation** ✅ Iteration
+
+**Angepasste Dokumente:**
+- `knowledge/user-stories.md` - Machbarkeitsanalyse-Sektion hinzugefügt
+  - Tabelle mit Feasibility-Status für alle User Stories
+  - D-03 Betreuungsrelation komplett überarbeitet mit Validierungsbefunden
+  - Workshop-Klärungsfragen formuliert (ZWINGEND erforderlich)
+  - Links zu beiden Feasibility-Reports
+
+**Generierte Reports:**
+- `outputs/reports/epic_vetmeduni_feasibility.md` - 400 Zeilen detaillierte Machbarkeitsanalyse
+  - Executive Summary mit Status-Tabelle
+  - 6 Validierungs-Checks mit Befunden
+  - Kritische Erkenntnisse für Workshop
+  - Empfehlungen für Epic-Anpassungen
+
+### Methodik: Data-Driven Validation
+
+**Ansatz:**
+Statt User Stories aus Recherche abzuleiten und später zu implementieren, wurden **alle Stories gegen tatsächliche Daten validiert** BEVOR Workshop oder Implementierung.
+
+**Vorteil:**
+- Workshop-Teilnehmer erhalten konkrete Befunde (nicht Vermutungen)
+- Kritische Fragen sind datenbasiert formuliert
+- Implementierung beginnt nur mit verifizierten Features
+
+**Framework:**
+Für jede Epic-Anforderung:
+1. Daten-Check: Sind erforderliche Kennzahlen vorhanden?
+2. Formel-Verifizierung: Können wir den angegebenen Wert nachrechnen?
+3. Vollständigkeits-Check: Ist VetMedUni vollständig im Datensatz?
+4. Feasibility-Rating: OK / WARN / FAIL
+
+### Output
+
+**Exploration-Scripts:**
+- `scripts/validate_epic_vetmeduni.py` - Epic-Validierung mit 6 Checks
+
+**Reports:**
+- `outputs/reports/epic_vetmeduni_feasibility.md` - Epic-Machbarkeit
+- `outputs/reports/user_story_feasibility.md` - User-Stories-Machbarkeit (existiert bereits)
+
+**Aktualisierte Dokumente:**
+- `knowledge/user-stories.md` - Feasibility-Befunde integriert
+- `scripts/README.md` - validate_epic_vetmeduni.py dokumentiert (implizit)
+
+### Kritische Workshop-Fragen (11.02.2026)
+
+Diese Fragen MÜSSEN im Workshop geklärt werden:
+
+1. **Betreuungsrelation:** Welche exakte Formel nutzt VetMedUni für 1:17.6?
+   - Nutzt VetMedUni interne Datenquellen (nicht aus UniData)?
+   - Sind "Professoren + Dozenten + Assoz.Prof" = "ProfessorInnen & Äquivalente"?
+
+2. **Prüfungsaktive Quote:** Was bedeutet "Diplomstudium" in der Epic-Angabe >90%?
+   - Ist das eine Teilmenge von "Prüfungsaktive Studien"?
+   - Ist die 73.7%-Berechnung (alle Studien) vergleichbar?
+
+3. **QS Ranking:** Ist Integration von QS Ranking erforderlich?
+   - Manuelle Pflege akzeptabel oder automatisierte Datenquelle notwendig?
+
+4. **Zeitreihen-Methodologie:** Welche Zeiträume sind tatsächlich vergleichbar?
+   - Dokumentation zu Erhebungsmethoden-Änderungen verfügbar?
+
+### Erkenntnisse für Promptotyping-Methodik
+
+**Lesson Learned:**
+Epic-Validierung FRÜH durchführen (vor Workshop, nicht nach!) um:
+- Unrealistische Erwartungen zu korrigieren
+- Konkrete Klärungsfragen zu formulieren
+- Workshop-Zeit auf tatsächliche Blocker zu fokussieren
+
+**Negativ-Befunde sind wertvoll:**
+- "Personalkategorien NICHT differenziert" verhindert falsche Implementierung
+- "Abweichung 6.5" zeigt, dass Formel-Annahme falsch war
+- "QS Ranking extern" klärt Scope früh
+
+### Session-Abschluss
+
+**Erreicht:**
+- Epic VetMedUni vollständig gegen Daten validiert
+- User Stories angepasst mit Feasibility-Befunden
+- 4 kritische Workshop-Fragen formuliert
+- 2 Feasibility-Reports generiert
+- knowledge/user-stories.md aktualisiert mit Machbarkeitsanalyse
+
+**Offene TODOs für Session 3:**
+- Refactoring: Shared Utils für JSON-Loading und CSV-Writing
+- Phase 2 Exploration fortsetzen (deskriptive, vergleichende Analysen)
+- Phase 4 vorbereiten: `knowledge/design.md` für Dashboard-Konzept erstellen
+
+---
+
+## Session 3: TBD - Refactoring & Design
 
 **Geplant:**
 
-**Phase 2: Exploration & Mapping** (Fortsetzung)
-- Validierungs-Scripts: Summen, Prozente, VZÄ≤Köpfe, Subsets, Null-Werte, Zeitreihen
-- Deskriptive Statistiken: Verteilungen, Vollständigkeit
-- Vergleichende Analysen: Uni-Typen, Bundesländer, Zeittrends
+**Code-Refactoring (Optional):**
+- `scripts/shared_utils.py` erstellen (gemeinsame Basis-Funktionen)
+- Konstanten zentralisieren (`scripts/constants.py`)
 
 **Phase 3: Destillation** (Iteration)
-- Erkenntnisse aus Exploration → `knowledge/insights.md`
-- Design-Entscheidungen → `knowledge/design.md` (Dashboard-Konzept)
+- Design-Entscheidungen → `knowledge/design.md` (Dashboard-Konzept für Webseite)
+- Erkenntnisse → `knowledge/insights.md` (wenn weitere Analysen vorhanden)
+
+**Phase 2: Exploration & Mapping** (Fortsetzung)
+- Deskriptive Statistiken: Verteilungen, Vollständigkeit
+- Vergleichende Analysen: Uni-Typen, Bundesländer, Zeittrends
 
 **Phase 4: Implementation** (Spätere Session)
 - Dashboard-Entwicklung basierend auf Exploration-Erkenntnissen

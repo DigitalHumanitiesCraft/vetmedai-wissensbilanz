@@ -15,13 +15,16 @@
 
 ### Projektziele & Anforderungen
 - [[requirements]] - Forschungsfragen & Projektziele (komprimiert)
-- [[user-stories]] - User Stories für VetMedAI Workshop (11.02.2026) - Validierungshypothesen
+- [[user-stories]] - User Stories für VetMedAI Workshop (11.02.2026) - Mit Machbarkeitsanalyse
+
+### Code-Qualität
+- [[refactoring-plan]] - Refactoring-Empfehlungen für Session 3 (Shared Utils, Konstanten)
 
 ---
 
 ## Prozess-Dokumentation (für Menschen)
 
-- [[journal]] - Chronologische Session-Dokumentation mit Promptotyping-Phasen
+- [[journal]] - Chronologische Session-Dokumentation mit Promptotyping-Phasen (Session 1+2 abgeschlossen)
 
 ---
 
@@ -48,15 +51,22 @@
 - Foundation: Metadaten-Extraktion (scripts/analyze_data.py)
 - Foundation: Personalkategorien-Analyse (scripts/explore_personalkategorien.py)
 - Foundation: User-Story-Validierung (scripts/validate_all_stories.py)
+- Foundation: Epic-Validierung (scripts/validate_epic_vetmeduni.py) ✅ Session 2
 - Descriptive: TODO (Summen, Prozente, Null-Werte)
 - Comparative: TODO (VZÄ vs Köpfe, Subset-Validierung)
 - Relational: TODO (Korrelationen, Zeitreihen-Ausreißer)
 
 **User-Story-Machbarkeit (für Workshop 11.02.2026):**
 - 6 von 7 Dashboard-Stories vollständig umsetzbar
-- D-03 Betreuungsrelation eingeschränkt (Personalkategorien fehlen)
+- D-03 Betreuungsrelation KRITISCH (Abweichung 6.5 zu Epic-Angabe)
 - Alle Textgenerierungs-Stories (B-01 bis B-04) umsetzbar
-- Report: outputs/reports/user_story_feasibility.md
+- Reports: outputs/reports/user_story_feasibility.md, outputs/reports/epic_vetmeduni_feasibility.md
+
+**Kritische Workshop-Fragen identifiziert:**
+1. Betreuungsrelation-Formel: 1:11.1 (berechnet) vs. 1:17.6 (Epic)
+2. Prüfungsaktive Quote: 73.7% (berechnet) vs. >90% (Epic)
+3. QS Ranking: Externe Datenquelle erforderlich
+4. Zeitreihen-Methodologie: Welche Jahre vergleichbar?
 
 ---
 
@@ -83,8 +93,8 @@ outputs/
 
 ---
 
-## Nächste Schritte
+## Nächste Schritte (Session 3)
 
-1. **Phase 2 fortsetzen:** Weitere Exploration-Scripts entwickeln
-2. **Phase 3 iterieren:** Erkenntnisse in `insights.md` destillieren
-3. **Phase 4 vorbereiten:** Dashboard-Konzept in `design.md` skizzieren
+1. **Code-Refactoring:** Shared Utils und Konstanten (siehe refactoring-plan.md)
+2. **Phase 4 vorbereiten:** Dashboard-Konzept in `design.md` skizzieren
+3. **Phase 2 fortsetzen:** Weitere Exploration-Scripts entwickeln (deskriptiv, vergleichend)
